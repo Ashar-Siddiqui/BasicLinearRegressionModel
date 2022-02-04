@@ -1,2 +1,2 @@
 # BasicLinearRegressionModel
-Here is a basic Linear Regression Model I constructed when I bbgan to learn MAchine Learning Environments and Models.
+Here is a basic linear regression model I constructed when I began to create mchine learning environments and models.
